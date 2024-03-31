@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\PROJECT ALL\API\digilend\sky.report\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2024-03-31T08:50:43.5232600Z;True|2024-03-31T15:50:21.4188348+07:00;True|2024-02-27T21:29:32.4707695+07:00;True|2024-02-27T21:28:37.2136963+07:00;True|2024-02-27T21:28:12.1115542+07:00;True|2024-02-24T14:56:01.9111768+07:00;True|2024-02-24T14:55:32.2424820+07:00;True|2024-02-23T14:03:42.3502929+07:00;True|2024-02-23T04:15:13.1902908+07:00;True|2024-02-23T04:14:47.6488186+07:00;True|2023-11-07T11:43:21.6472455+07:00;True|2023-08-07T10:33:21.0486131+07:00;</History>
+  </PropertyGroup>
+</Project>
